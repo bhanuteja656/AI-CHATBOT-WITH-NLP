@@ -33,4 +33,4 @@ In the future, I would like to improve this chatbot by connecting it to more adv
 
 #OUTPUT
 
-<img width="1092" height="354" alt="Image" src="https://github.com/user-attachments/assets/88683a57-ae2a-483f-981c-85aa2b59a34f" />
+<img width="1092" height="185" alt="Image" src="https://github.com/user-attachments/assets/d425ba87-6466-4886-a8fa-2b23d10ffb37" />
